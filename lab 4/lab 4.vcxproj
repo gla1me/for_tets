@@ -201,6 +201,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="lab1.c" />
     <ClCompile Include="tasks_lab4_1.c" />
     <ClCompile Include="macros.c" />
     <ClCompile Include="main.c" />

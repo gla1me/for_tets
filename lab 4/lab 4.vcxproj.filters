@@ -39,6 +39,9 @@
     <ClCompile Include="tasks_lab4_1.h">
       <Filter>Файлы заголовков</Filter>
     </ClCompile>
+    <ClCompile Include="lab1.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="module1.h">
