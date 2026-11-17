@@ -20,3 +20,10 @@ int main() {
 //logic lab1
 //logic lab1
 //logic lab1
+// fixes project
+
+//logic 2
+//logic 2
+//logic 2
+//logic 2
+//logic 2
