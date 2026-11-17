@@ -14,3 +14,9 @@ int main() {
 
 //hello world!
 // fixes project
+
+
+//logic lab1
+//logic lab1
+//logic lab1
+//logic lab1
